@@ -1,0 +1,9 @@
+#define headernafplatformsubject_origin
+#ifdef headernafplatformsubject_origin
+typedef void HeaderNafplatformsubject;
+#endif
+
+#define headernafplatformsubject_new
+#ifdef headernafplatformsubject_new
+#define headernafplatformsubject_window
+#endif

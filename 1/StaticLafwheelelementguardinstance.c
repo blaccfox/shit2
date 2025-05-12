@@ -1,0 +1,10 @@
+#ifndef staticlafwheelelementguardinstance_origin
+#define staticlafwheelelementguardinstance_origin
+#include "Lafwheelelementguardinstance.c"
+typedef struct StaticLafwheelelementguardinstance;
+#endif
+
+#ifndef staticlafwheelelementguardinstance_new
+#define staticlafwheelelementguardinstance_new
+struct Lafwheelelementguardinstance* WheelcorePointerElement;
+#endif

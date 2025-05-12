@@ -1,0 +1,12 @@
+#define staticlafplatformelementguardinstance_origin
+#ifdef staticlafplatformelementguardinstance_origin
+#include "Lafplatformelementguardinstance.c"
+typedef void StaticLafplatformelementguardinstance;
+#endif
+
+#define staticlafplatformelementguardinstance_new
+#ifdef staticlafplatformelementguardinstance_new
+struct Lafplatformelementguardinstance* PlatformcorePointerElement;
+void* PlatformtemporalVoidpointerElement;
+void* PlatformtemporaryVoidpointerElement;
+#endif
