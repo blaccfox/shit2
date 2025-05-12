@@ -1,0 +1,24 @@
+#define staticlafwindowelementguardinstance_origin
+#ifdef staticlafwindowelementguardinstance_origin
+#include "Nafwindowsubject.c"
+typedef void StaticLafwindowelementguardinstance;
+#endif
+
+#define staticlafwindowelementguardinstance_new
+#ifdef staticlafwindowelementguardinstance_new
+struct Lafwindowelementguardinstance* WindowcorePointerElement;
+HWND HandleElement;
+RECT RectangleElement;
+LPVOID LongpointervoidElement;
+BITMAP BitmapElement;
+HBITMAP HandlebitmapElement;
+HDC DedicateHandledevicecontextElement;
+HDC MemoryHandledevicecontextElement;
+LPVOID OverlayLongpointervoidElement;
+BITMAP OverlayBitmapElement;
+HBITMAP OverlayHandlebitmapElement;
+HDC OverlaydedicateHandledevicecontextElement;
+HDC OverlaymemoryHandledevicecontextElement;
+_Bool StarthasBooleanElement = false;
+#endif
+

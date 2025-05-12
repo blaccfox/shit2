@@ -1,0 +1,12 @@
+#define staticlafballelementguardinstance_origin
+#ifdef staticlafballelementguardinstance_origin
+#include "Nafballsubject.c"
+typedef void StaticLafballelementguardinstance;
+#endif
+
+#define staticlafballelementguardinstance_new
+#ifdef staticlafballelementguardinstance_new
+struct Lafballelementguardinstance* SetBallPointer;
+struct Lafballelementguardinstance* SetCloneBallPointer;
+int32_t NumbernumeralnumericballIntegerElement = 0;
+#endif
